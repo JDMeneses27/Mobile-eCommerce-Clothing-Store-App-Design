@@ -1,0 +1,77 @@
+@import url(variables.css);
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+
+.video-home{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: 1;
+}
+.block {
+    width: 100%;
+    height: 20px;
+    background-color: black;
+    font-family: "DIN";
+    font-size: 4px;
+    color: var(--color-4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin: auto;
+    z-index: 2;
+}
+.top {
+    width: 100%;
+    height: 70px;
+    margin-top: 20px;
+    display: flex;
+    /* background-color: aliceblue; */
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    transition: background-color 0.3s, color 0.3s;
+    z-index: 2;
+}
+.top:hover{
+    background-color: var(--color-4);
+    color: var(--color-5);
+}
+.top button {
+    background-color: transparent;
+    border: none;
+    color: var(--color-3);
+    font-size: 30px;
+}
+.top button:hover{
+    color: var(--color-1);
+}
+.button1 {
+    position: relative;
+    display: flex;
+    gap: 20px;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: auto;
+    /* background-color: aqua; */
+}
+.button2 {
+    position: relative;
+    display: flex;
+    gap: 20px;
+    margin-top: 5px;
+    margin-right: 20px;
+    margin-left: auto;
+    /* background-color: aqua; */
+}

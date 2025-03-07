@@ -6,3 +6,7 @@
     --color-5 : #121111;
 }
 
+@font-face {
+    font-family: "DIN";
+    src: url(../stora/font/DIN-Next-Font/DINNextW1G-Regular.otf);
+}
