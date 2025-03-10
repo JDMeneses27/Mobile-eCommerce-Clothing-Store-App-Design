@@ -10,3 +10,7 @@
     font-family: "DIN";
     src: url(../stora/font/DIN-Next-Font/DINNextW1G-Regular.otf);
 }
+@font-face {
+    font-family: "Ocean-Grade";
+    src: url(../stora/font/ocean_grade/Ocean\ Grade.otf);
+}
