@@ -18,3 +18,8 @@
     font-family: "Encode-Regular";
     src: url(../stora/font/Encode_Sans/static/EncodeSans-Regular.ttf);
 }
+
+@font-face {
+    font-family: "Encode-Medium";
+    src: url(../stora/font/Encode_Sans/static/EncodeSans-Medium.ttf);
+}
