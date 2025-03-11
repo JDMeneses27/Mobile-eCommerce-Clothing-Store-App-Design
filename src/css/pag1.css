@@ -7,3 +7,74 @@
 body {
     background-color: var(--color-4);
 }
+.top {
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 100%;
+    height: 46px;
+    margin-top: 20px;
+}
+.top p {
+    /* background-color: blue; */
+    position: absolute;
+    font-size: 12px;
+    font-family: "Encode-Regular";
+    margin-top: -25px;
+    margin-left: 24px;
+}
+.top img {
+    /* background-color: violet; */
+    position: relative;
+    display: flex;
+    margin-left: 315px;
+    width: 35px;
+}
+.name {
+    /* background-color: aquamarine; */
+    position: absolute;
+    font-family: "Encode-Bold";
+    font-size: 16px;
+    margin-top: 25px;
+    margin-left: 24px;
+}
+.search-box {
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 16px;
+    height: 48px;
+}
+.search-box input {
+    background-color: transparent;
+    width: 263px;
+    height: 48px;
+    border: 3px solid var(--color-6);
+    border-radius: 8px;
+    font-family: "Encode-Regular";
+    font-size: 14px;
+    color: var(--color-7);
+    text-align: center;
+    margin-left: 24px;
+}
+.search-emoji {
+    /* background-color: brown; */
+    position: absolute;
+    margin-left: 50px;
+    font-size: 30px;
+    color: var(--color-7);
+}
+.emoji {
+    background-color: var(--color-1);
+    margin-left: 16px;
+    font-size: 24px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-8);
+    height: 48px;
+    width: 48px;
+}
