@@ -1,4 +1,4 @@
-@import url(variables.css);
+@import url(../css/variables.css);
 *{
     padding: 0;
     margin: 0;
@@ -90,6 +90,9 @@ body{
     /* background-color: aqua; */
     margin-top: 700px;
     z-index: 2;
+}
+.shop a {
+    text-decoration: none;
 }
 .shop h1 {
     background-color: transparent;

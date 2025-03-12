@@ -86,6 +86,7 @@
     align-items: center;
     font-family: "Encode-Regular";
     font-size: 12px;
+    
 }
 .description {
     /* background-color: red; */
@@ -102,7 +103,7 @@
     text-decoration: none;
     font-family: "Encode-Semibold";
     font-size: 14px;
-    color: var(--color-7);
+    color: var(--color-11);
     /* background-color: coral;     */
 }
 .cart-section {
@@ -170,7 +171,7 @@
 }
 .size-btn:hover {
     background-color: var(--color-1);
-    color: var(--color-6);
+    color: var(--color-10);
 }
 .colors {
     /* background-color: blueviolet; */

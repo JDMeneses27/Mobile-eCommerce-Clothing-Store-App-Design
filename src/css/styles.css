@@ -1,1 +1,28 @@
-    
+@import url(../css/variables.css);
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.container {
+    background-color: white;
+    border-radius: 50px;
+    width: 300px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+    margin-left: 40px;
+    font-family: "Encode-Regular";
+    font-size: 20px;
+}
+.container a {
+    color: var(--color-1);
+    text-decoration: none;
+}
