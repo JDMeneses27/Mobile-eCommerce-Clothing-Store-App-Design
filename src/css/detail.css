@@ -172,3 +172,27 @@
     background-color: var(--color-1);
     color: var(--color-6);
 }
+.colors {
+    background-color: blueviolet;
+    width: 94px;
+    height: 52px;
+    margin-left: 105px;
+}
+.colors p {
+    font-family: "Encode-Bold";
+    font-size: 12px;
+}
+.group {
+    background-color:darkcyan;
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 94px;
+    height: 26px;
+}
+.color-btn {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+}
