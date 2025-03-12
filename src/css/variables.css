@@ -8,6 +8,8 @@
     --color-7 : #CAC9C9;
     --color-8 : #FDFDFD;
     --color-9 : #FFFFFF;
+    --color-10 : #FDFDFD;
+    --color-11 : #121111;
 }
 
 @font-face {
@@ -24,6 +26,11 @@
 }
 
 @font-face {
+    font-family: "Encode-Semibold";
+    src: url(../stora/font/Encode_Sans/static/EncodeSans-SemiBold.ttf);
+}
+
+@font-face {
     font-family: "Encode-Regular";
     src: url(../stora/font/Encode_Sans/static/EncodeSans-Regular.ttf);
 }
@@ -33,6 +40,6 @@
     src: url(../stora/font/Encode_Sans/static/EncodeSans-Medium.ttf);
 }
 @font-face {
-    font-family: "Encode-Semibold";
-    src: url(../stora/font/Encode_Sans/static/EncodeSans-SemiBold.ttf);
+    font-family: "Encode-Bold";
+    src: url(../stora/font/Encode_Sans/static/EncodeSans-Bold.ttf);
 }
