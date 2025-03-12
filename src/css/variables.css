@@ -23,3 +23,7 @@
     font-family: "Encode-Medium";
     src: url(../stora/font/Encode_Sans/static/EncodeSans-Medium.ttf);
 }
+@font-face {
+    font-family: "Encode-Semibold";
+    src: url(../stora/font/Encode_Sans/static/EncodeSans-SemiBold.ttf);
+}
