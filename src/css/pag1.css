@@ -155,7 +155,24 @@ body {
     z-index: 2;
 }
 
-
+.product-image i {
+    margin-top: 10px;
+    margin-left: 120px;
+    position: absolute;
+    background-color: var(--color-1);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    color: var(--color-9);
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.product-image i:hover{
+    background-color: var(--color-9);
+    border: 2px solid var(--color-2);
+    color: var(--color-1);
+}
 .product-image {
     position: relative;
     width: 100%;
@@ -222,7 +239,24 @@ body {
     font-size: 12px;
     margin-left: 24px;
 }
-
+.product-image2 i {
+    margin-top: 10px;
+    margin-left: 120px;
+    position: absolute;
+    background-color: var(--color-1);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    color: var(--color-9);
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.product-image2 i:hover{
+    background-color: var(--color-9);
+    border: 2px solid var(--color-2);
+    color: var(--color-1);
+}
 .product-image2 {
     position: relative;
     width: 100%;
@@ -298,7 +332,24 @@ body {
     margin-top: 10px;
     z-index: 2;
 }
-
+.product-image3 i {
+    margin-top: 10px;
+    margin-left: 120px;
+    position: absolute;
+    background-color: var(--color-1);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    color: var(--color-9);
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.product-image3 i:hover{
+    background-color: var(--color-9);
+    border: 2px solid var(--color-2);
+    color: var(--color-1);
+}
 .product-image3 {
     position: relative;
     width: 100%;
@@ -365,6 +416,24 @@ body {
     font-family: "Encode-Regular";
     font-size: 12px;
     margin-left: 24px;
+}
+.product-image4 i {
+    margin-top: 10px;
+    margin-left: 120px;
+    position: absolute;
+    background-color: var(--color-1);
+    width: 30px;
+    height: 30px;
+    display: flex;
+    color: var(--color-9);
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.product-image4 i:hover{
+    background-color: var(--color-9);
+    border: 2px solid var(--color-2);
+    color: var(--color-1);
 }
 .product-image4 {
     position: relative;
