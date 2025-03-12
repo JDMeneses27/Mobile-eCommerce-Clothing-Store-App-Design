@@ -5,5 +5,15 @@
     --color-4 : #F2F2F2;
     --color-5 : #121111;
     --color-6 : #FDFDFD;
+    --color-7 : #121111;
 }
 
+@font-face {
+    font-family: "Encode-Semibold";
+    src: url(../stora/font/Encode_Sans/static/EncodeSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "Encode-Regular";
+    src: url(../stora/font/Encode_Sans/static/EncodeSans-Regular.ttf);
+}
