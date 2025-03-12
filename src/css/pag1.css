@@ -545,3 +545,13 @@ body {
 .active i {
     color: black;
 }
+.notification {
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    width: 10px;
+    height: 10px;
+    background-color: #ff0055;
+    border-radius: 50%;
+    border: 2px solid #211d1d;
+}
