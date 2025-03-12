@@ -17,3 +17,7 @@
     font-family: "Encode-Regular";
     src: url(../stora/font/Encode_Sans/static/EncodeSans-Regular.ttf);
 }
+@font-face {
+    font-family: "Encode-Bold";
+    src: url(../stora/font/Encode_Sans/static/EncodeSans-Bold.ttf);
+}
